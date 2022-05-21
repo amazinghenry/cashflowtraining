@@ -89,11 +89,11 @@
 }
 
 .livesession h4 {
-    font-size: 18px;
+    font-size: 13px;
 }
 
 .livesession h5 {
-    font-size: 24px;
+    font-size: 20px;
     color: var(--secondarycolor);
     font-weight: 600;
 }

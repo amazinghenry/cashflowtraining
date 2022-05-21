@@ -1,5 +1,5 @@
 let mainLogo = document.querySelector(".main_logo");
-mainLogo.style.width = "150px";
+mainLogo.style.width = "200px";
 mainLogo.style.marginBottom = "10px";
 
 let cashFlow = document.querySelector(".cashflow");
